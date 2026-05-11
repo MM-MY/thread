@@ -8,6 +8,8 @@ public class ThreeWayApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(ThreeWayApplication.class, args);
+
+
     }
 
 }
