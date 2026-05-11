@@ -1,6 +1,6 @@
 package com.wym.threeway;
 
-import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.Test;  // 这一行必须加！！
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
